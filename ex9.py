@@ -1,0 +1,1 @@
+ch=input("donner une phrase:")
